@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Samra-63">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=c084fc&fontSize=54&height=90&width=826&text=Hello!%20I'm%20Samra%20Arif%F0%9F%AA%BB" alt="Hello! I&#39;m Samra Arif🪻" />
+    <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=52&pause=1000&color=A371F7&center=true&vCenter=true&width=800&height=80&lines=Hello!+I'm+Samra+Arif+%F0%9F%AA%BB" alt="Hello! I'm Samra Arif🪻" />
   </a>
 </p>
 
