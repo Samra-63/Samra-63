@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=Crafting%20slick%20mobile%20apps%20and%20snappy%20web%20platforms%20that%20actually%20scale%20%F0%9F%8C%9A;Obsessed%20with%20smooth%20architecture%2C%20slick%20UX%2C%20and%20clean%20logic.%F0%9F%8C%9D" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=bb86fc&center=true&vCenter=true&width=900&height=44&lines=Crafting%20slick%20mobile%20apps%20and%20snappy%20web%20platforms%20that%20actually%20scale%20%F0%9F%8C%9A;Obsessed%20with%20smooth%20architecture%2C%20slick%20UX%2C%20and%20clean%20logic.%F0%9F%8C%9D" alt="Typing headlines" />
 </p>
 
 ### 🧕 About Me
