@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Samra-63">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=826&text=Hello!%20I'm%20Samra%20Arif%F0%9F%AA%BB" alt="Hello! I&#39;m Samra Arif🪻" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=c084fc&fontSize=54&height=90&width=826&text=Hello!%20I'm%20Samra%20Arif%F0%9F%AA%BB" alt="Hello! I&#39;m Samra Arif🪻" />
   </a>
 </p>
 
@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=Crafting%20slick%20mobile%20apps%20and%20snappy%20web%20platforms%20that%20actually%20scale%20%F0%9F%8C%9A;Obsessed%20with%20smooth%20architecture%2C%20slick%20UX%2C%20and%20clean%20logic.%F0%9F%8C%9D" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+### 🧕 About Me
 
 Full-stack &amp; mobile developer who genuinely enjoys building things end-to-end. Former GDG Lead, community lover, and big on clean UI, smooth UX, and practical engineering.
 
@@ -20,7 +20,7 @@ Full-stack &amp; mobile developer who genuinely enjoys building things end-to-en
 😄 &nbsp;Pronouns: **she/her**  
 ⚡ &nbsp;Fun fact: **I judge websites and apps entirely by their mobile responsiveness and button padding.**
 
-### 🛠️ Tech Stack
+### 😈 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
