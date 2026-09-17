@@ -10,7 +10,7 @@
 
 ### 🧕 About Me
 
-Full-stack & mobile developer who genuinely enjoys building things end-to-end. Former GDG Lead, community lover, and big on clean UI, smooth UX, and practical engineering.
+Full-stack web & mobile developer who genuinely enjoys building things end-to-end. Former GDG Lead, community lover, and big on clean UI, smooth UX, and practical engineering.
 
 - 🔭 &nbsp;I'm currently working on **Interactive web platforms & cross-platform mobile apps**  
 - 🌱 &nbsp;I'm currently learning **Advanced backend architecture & agentic workflows**  
