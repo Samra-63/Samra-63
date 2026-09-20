@@ -36,7 +36,7 @@ Full-stack web & mobile developer who genuinely enjoys building things end-to-en
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
-**Frameworks, Libraries & Mobile**  
+**Frameworks, Libraries & Mobile :)**  
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
