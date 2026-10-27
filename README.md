@@ -13,7 +13,7 @@
 Full-stack web & mobile developer who genuinely enjoys building things end-to-end. Former GDG Lead, community lover, and big on clean UI, smooth UX, and practical engineering.
 
 - 🔭 &nbsp;I'm currently working on **Interactive web platforms & cross-platform mobile apps**  
-- 🌱 &nbsp;I'm currently learning **Advanced backend architecture & agentic workflows**  
+- 🌱 &nbsp;I'm currently learning **Advanced backend architecture & agentic workflows & FDE**  
 - 👯 &nbsp;I'm looking to collaborate on **Exciting web/mobile products, open-source tools, or community tech initiatives**  
 - 🤔 &nbsp;I'm looking for help with **Connecting with EU-based startups & forward-thinking tech teams.**  
 - 💬 &nbsp;Ask me about **React, Next.js, React Native, Flutter, Laravel, or community building**  
