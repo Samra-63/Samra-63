@@ -18,7 +18,7 @@ Full-stack web & mobile developer who genuinely enjoys building things end-to-en
 - 🤔 &nbsp;I'm looking for help with **Connecting with EU-based startups & forward-thinking tech teams.**  
 - 💬 &nbsp;Ask me about **React, Next.js, React Native, Flutter, Laravel, or community building**  
 - 😄 &nbsp;Pronouns: **she/her**  
-- ⚡ &nbsp;Fun fact: **I judge websites and apps entirely by their mobile responsiveness and button padding.**
+- ⚡ &nbsp;Fun fact: **I judge websites and apps entirely by their mobile responsiveness and button padding:)**
 
 ---
 
